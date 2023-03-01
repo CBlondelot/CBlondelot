@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on creating a digital scholarly edition of a 17th century play
+- 🌱 I’m learning everything from scratch
 <!--
 **CBlondelot/CBlondelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
